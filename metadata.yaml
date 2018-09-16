@@ -1,0 +1,32 @@
+_repo: Belgians-Under-the-German-Eagle_51716
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+creator:
+  author:
+    agent_name: Massart, Jean
+    birthdate: 1865
+    deathdate: 1925
+    gutenberg_agent_id: '3814'
+    url: http://www.gutenberg.org/2009/agents/3814
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51716'
+  lccn: '16015266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Belgium -- History -- German occupation, 1914-1918'
+- GITenberg
+title: Belgians Under the German Eagle
+url: http://www.gutenberg.org/ebooks/51716

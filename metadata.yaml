@@ -7,6 +7,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: archival
+  image_path: 51716-h/images/cover.jpg
 creator:
   author:
     agent_name: Massart, Jean
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '3814'
     url: http://www.gutenberg.org/2009/agents/3814
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51716#Belgians-Under-the-German-Eagle
 gutenberg_issued: '2016-04-10'
 gutenberg_type: Text
 identifiers:
